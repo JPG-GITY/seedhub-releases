@@ -5,10 +5,10 @@ Installers for Seed HUB, by BytePlus. This repository holds releases only; it ha
 ## Download
 
 <!-- downloads -->
-**Seed HUB 0.0.10**
+**Seed HUB 0.0.11**
 
-- macOS: [Seed.HUB_0.0.10_universal.dmg](https://github.com/JPG-GITY/seedhub-releases/releases/download/v0.0.10/Seed.HUB_0.0.10_universal.dmg)
-- Windows (64-bit): [Seed.HUB_0.0.10_x64-setup.exe](https://github.com/JPG-GITY/seedhub-releases/releases/download/v0.0.10/Seed.HUB_0.0.10_x64-setup.exe)
+- macOS: [Seed.HUB_0.0.11_universal.dmg](https://github.com/JPG-GITY/seedhub-releases/releases/download/v0.0.11/Seed.HUB_0.0.11_universal.dmg)
+- Windows (64-bit): [Seed.HUB_0.0.11_x64-setup.exe](https://github.com/JPG-GITY/seedhub-releases/releases/download/v0.0.11/Seed.HUB_0.0.11_x64-setup.exe)
 <!-- /downloads -->
 
 Get the latest version from [Releases](https://github.com/JPG-GITY/seedhub-releases/releases/latest):
